@@ -125,9 +125,3 @@ String getCloudCoverDescription(int cloudCover) {
     return 'Fully overcast';
   }
 }
-
-double getUvIndex(){
-  // 0 = 3 * pi / 2
-  // 10 = pi / 2
-  return 1.0;
-}
