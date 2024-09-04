@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 import 'package:weather_app/blocs/city_weather_bloc/city_weather_bloc.dart';
-import 'package:weather_app/model/enum.dart';
+import 'package:weather_app/util/enum.dart';
 import 'package:weather_app/screens/cities_weather/widgets/city_weather_card.dart';
 import 'package:weather_app/util/color_pallet.dart';
 

@@ -2,7 +2,7 @@ import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:meta/meta.dart';
-import 'package:weather_app/model/enum.dart';
+import 'package:weather_app/util/enum.dart';
 import 'package:weather_app/model/forecast_day.dart';
 import 'package:weather_app/model/weather.dart';
 import 'package:weather_app/services/api_service.dart';

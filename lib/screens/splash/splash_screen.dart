@@ -5,7 +5,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:weather_app/blocs/app_bloc/app_bloc.dart';
 import 'package:weather_app/blocs/connectivity_bloc/connectivity_bloc.dart';
 import 'package:weather_app/blocs/weather_bloc/weather_bloc.dart';
-import 'package:weather_app/model/enum.dart';
+import 'package:weather_app/util/enum.dart';
 import 'package:weather_app/screens/home/views/weather_page.dart';
 import 'package:weather_app/util/color_pallet.dart';
 import 'package:weather_app/util/popup_handler.dart';
