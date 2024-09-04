@@ -48,7 +48,8 @@
 
 
 ## 📜 Credits
-- Weather data provided by [WeatherAPI.com](https://www.weatherapi.com/)
+[![Weather data by WeatherAPI.com](https://cdn.weatherapi.com/v4/images/weatherapi_logo.png)](https://www.weatherapi.com/)
+- Weather data provided by [WeatherAPI.com](https://www.weatherapi.com/) 
 - Images and icons used in the app are sourced from the internet. Full credit goes to the original creators and owners. Unfortunately, the exact sources of these images are unknown. If you are the owner of any image used in this app and want it removed or properly credited, please contact us.
 
 ## 🛠️ Issues
