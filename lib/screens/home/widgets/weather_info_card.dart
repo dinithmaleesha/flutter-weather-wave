@@ -58,6 +58,7 @@ class WeatherInfoCard extends StatelessWidget {
             ),
             Text(
               description,
+              overflow: TextOverflow.ellipsis,
               style: TextStyle(
                 fontSize: 12.sp,
                 color: ColorPallet.offWhite,
